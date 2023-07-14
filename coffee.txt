@@ -1,0 +1,1469 @@
+<!DOCTYPE HTML>
+<!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
+<!--[if lt IE 7 ]><html class="no-js ie6" lang="en"><![endif]-->
+<!--[if IE 7 ]><html class="no-js ie7" lang="en"><![endif]-->
+<!--[if IE 8 ]><html class="no-js ie8" lang="en">&nbsp;<![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	<title>Sports | CKDR</title>
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<meta name="keywords" content="Dryden, Oxdrift, Wabigoon, Vermilion Bay, Eagle River, Machin, Quibell, Ear Falls, Red Lake, Sioux Lookout, Hudon, Ignace, Wabigoon Lake, Lac Seul, Sunset Country" />
+	<meta name="description" content="If you have local sports results to share, pass them along! Call or text us at (807) 223-5215 or email ckdrnew..." />
+	
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Sports" />
+	<meta property="og:description" content="If you have local sports results to share, pass them along! Call or text us at (807) 223-5215 or email ckdrnew..." />
+	<meta property="og:url" content="https://www.ckdr.net/sports/" />
+	<meta property="og:site_name" content="CKDR"/>
+	<meta property="og:image" content="https://media.socastsrm.com/uploads/station/1659/fbShare.png?r=56569" />
+
+	<link rel="pingback" href="https://www.ckdr.net/xmlrpc.php" />
+	<link rel="apple-touch-icon" href="https://media.socastsrm.com/uploads/station/1659/squareIcon.png?r=56570" />
+	<script>
+		var isIE8 = false; 
+	</script>
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+	<script>
+		isIE8 = true;
+		Date.now = Date.now || function() { return +new Date; };
+	</script>
+	<![endif]-->
+
+		
+	<script type="text/javascript">
+		//$headerType is "main"
+		//$request is "/sports/"
+		var socast_page = {
+    "cacheKey": "wp-postMacros-1956-wp-427",
+    "companyID": "315",
+    "accountID": 1809,
+    "blogID": 1956,
+    "ownerBlogID": 1956,
+    "currentBlogID": 1956,
+    "callLetters": "CKDR",
+    "siteName": "CKDR",
+    "squareLogo": "https:\/\/media.socastsrm.com\/uploads\/station\/1659\/squareIcon.png?r=56570",
+    "postID": 427,
+    "title": "Sports",
+    "type": "page",
+    "referrer": null,
+    "userAgent": "Mozilla\/5.0 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)",
+    "eventID": null,
+    "location": "Dryden, ON, Canada",
+    "navString": "News >>,Sports",
+    "isSyn": false,
+    "hasContent": true,
+    "featured_image": false,
+    "featured_image_caption": null,
+    "url": "http:\/\/www.ckdr.net\/sports\/",
+    "is_yii": false,
+    "post_format": "standard",
+    "featured_image_facebook": false,
+    "featured_image_twitter": false,
+    "timestamp_published": "1560203349",
+    "timestamp_modified": "1677623275",
+    "date_published": "Jun 10, 2019 | 4:49 PM",
+    "date_modified": "Feb 28, 2023 | 4:27 PM",
+    "platform": "web",
+    "target": "omniture",
+    "pageType": "blog",
+    "shareTemplate": "<a href='http:\/\/www.facebook.com\/sharer.php?u=POST_URL' target='_blank' class='socialShareLink facebook'><img src='https:\/\/media.socastsrm.com\/images\/social\/png\/facebook.png' alt='facebook' \/><\/a><a href='https:\/\/twitter.com\/share?url=POST_URL&text=POST_TITLE' target='_blank' class='socialShareLink twitter'><img src='https:\/\/media.socastsrm.com\/images\/social\/png\/twitter.png' alt='twitter' \/><\/a><a href='http:\/\/www.linkedin.com\/shareArticle?url=POST_URL&title=POST_TITLE' target='_blank' class='socialShareLink linkedin'><img src='https:\/\/media.socastsrm.com\/images\/social\/png\/linkedin.png' alt='linkedin' \/><\/a><a href='mailto:?body=POST_URL&subject=POST_TITLE' target='_blank' class='socialShareLink email'><img src='https:\/\/media.socastsrm.com\/images\/social\/png\/email.png' alt='email' \/><\/a>"
+};
+		socast_page.url = window.location;
+		var adMacros = socast_page;
+		var Page = socast_page;
+		var gvars = { cdnStatic : '' };
+		var CDN_HOST_MEDIA = 'https://media.socastsrm.com';
+		var isMobileUserAgent = false;
+		var communityUserName = null;
+		var communityUserIcon = null;
+		var V3_RECAPTCHA_SITE_KEY = '6LchdXMgAAAAAP4dU47UWMAhU0Tc8Uf0ldZrstqZ';
+	</script>
+	
+	<script>
+	var hasPlayer = true;
+	var isInsideSocastIframe = false;
+	var playerType = 'popup';
+	var popupPlayerURL = 'https://listen.streamon.fm/ckdr';
+	var popupPlayerSize = '_blank';
+</script>
+		<link rel='dns-prefetch' href='//cdn-js.socastsrm.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//cdn-css.socastsrm.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ckdr.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='js_composer_front-css'  href='https://www.ckdr.net/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://cdn-css.socastsrm.com/cdn_v16.20.18/application/css/bootstrap/4.1.0/css/bootstrap.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='https://cdn-css.socastsrm.com/cdn_v16.20.18/application/css/custom.css?v=2013-10-02&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='global-theme-css'  href='https://cdn-css.socastsrm.com/cdn_v16.20.18/application/css/global-theme.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='global-frontend-css'  href='https://cdn-css.socastsrm.com/cdn_v16.20.18/application/stylesheets/frontend/frontend.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-main-css'  href='https://cdn-css.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/themes/pattison/pattison-hero-1/style.css?v=2015-10-02&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ckdr.net/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='socast-media-library-css'  href='https://www.ckdr.net/wp-content/plugins/socast-media-library/public/css/socast-media-library-public.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/js/jquery/jquery-ui-1.12.1/jquery-ui.min.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/css/bootstrap/4.1.0/js/popper-1.14.3.min.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/css/bootstrap/4.1.0/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/js/json/json2.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/js/custom.js?v=2017-05-29'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/lightBox.js?v=2014-08-21'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/js/jquery/socast.jquery.frontend.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/js/frontend.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/js/jquery/jquery.ui.kk-chronomasonry.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/application/js/jquery/jquery.ui.socastTouch.js'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/widgets/poll.js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LchdXMgAAAAAP4dU47UWMAhU0Tc8Uf0ldZrstqZ'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/themes/pattison/pattison-hero-1/scripts.js?v=2015-10-02&#038;ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.ckdr.net/wp-content/plugins/socast-media-library/public/js/socast-media-library-public.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='https://www.ckdr.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ckdr.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ckdr.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="https://www.ckdr.net/sports/" />
+<link rel='shortlink' href='https://www.ckdr.net/?p=427' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ckdr.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ckdr.net%2Fsports%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ckdr.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ckdr.net%2Fsports%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TQ2K7TM');</script>
+<!-- End Google Tag Manager -->	<style>
+		html, body {
+			color: #222222;
+		}
+		body {
+						background-color:#77201A;
+					}
+		
+				@supports (--foo: green) {
+			:root {
+				--sc-primary: #EE4034;
+				--sc-text: #222222;
+				--sc-content-bgd: #FFFFFF;
+			}
+		}
+		html a, body a {
+			color: #EE4034;
+		}
+		.primary_color {
+			color: #EE4034 !important;
+		}
+		.primary_bgd_color {
+			background-color: #EE4034 !important;
+		}
+		.primary_border_color {
+			border-color: #EE4034 !important;
+		}
+		.secondary_color { color: #808080 !important; }
+		.secondary_bgd_color { background-color: #808080 !important; }
+		
+		h1.bar, h2.bar, h3.bar, h4.bar, h5.bar, h6.bar, div.section-header {
+			background-color: #EE4034;
+		}
+		
+		#ribbon, .main-nav-style {
+			background-color: #222222;
+		}
+		#ribbon, #ribbon a, ul.nav.secondary a {
+			color: #FFFFFF;
+		}
+		.main-nav-style, .main-nav-style a, ul.nav.secondary a {
+			color: #FFFFFF;
+		}
+		.main-nav-style .nav li:hover a, 
+		.main-nav-style .nav li a:focus, 
+		.main-nav-style .nav li.focused a, 
+		.main-nav-style .nav li.active a, 
+		.main-nav-style a:hover, 
+		.main-nav-style a:focus, 
+		#ribbon .ribbonBtn:hover,
+		.main-nav-style .sub-menu
+		{
+			background-color: #808080;
+		}
+		
+		.main-nav-style .nav .subNavLink:hover, 
+		.main-nav-style .nav .subNavLink:focus,
+		.main-nav-style .nav .subNavLink.focus,
+		.secondary_nav li.active a, 
+		.secondary_nav a:hover, 
+		.secondary_nav a:focus
+		{
+			background-color: #77201A;
+		}
+		
+		#ribbon .listenBtn,#ribbon .listenText {
+			background-color: #EE4034;
+		}
+		
+		.cd_col_content .cd_share_bar .shareBtn img {
+			background-color: #EE4034;
+		}
+		.ui-widget-content a { color: #EE4034; }
+		#minimalBrandingBar {
+			border-bottom: 2px solid #EE4034;
+		}
+		#theSidebar, .sc_theSidebar {
+			background-color: #FFFFFF;
+	color: #000000;
+			}
+		#theContent.hasSidebar, .sc_theContent.hasSidebar { padding-bottom:10px; }
+		.sidebar-width {
+			margin: 0px !important;
+		}
+		#theSidebar a, .sc_theSidebar a { color: #730F0F; }
+#theSidebar .primary_color, .sc_theSidebar .primary_color  { color: #730F0F !important; }
+#theSidebar .primary_bgd_color, .sc_theSidebar .primary_bgd_color { background-color: #730F0F !important; }
+#theSidebar .primary_border_color, .sc_theSidebar .primary_border_color { border-color: #730F0F !important; }
+		@media all and (min-width: 930px) {
+			#theSidebar, .sc_theSidebar {
+				width: 330px;
+				flex-shrink: 0;
+				flex-grow: 0;
+			}
+			.sidebar-width {
+				width: 330px !important;
+			}
+			.content-width { width: calc(100% - 330px) !important; }
+			#theContent-wrapper, .sc-sidebar-wrapper, .sc_theContent-wrapper {
+				display: flex;
+				flex-direction: row;
+				justify-content: space-between;
+			}
+			#theContent, .sc_theContent {
+				flex-shrink: 1;
+				flex-grow: 1;
+			}
+			#theContent.hasSidebar, .sc_theContent.hasSidebar {
+				max-width: calc(100% - 330px);
+			}
+			#theContent.sidebar-align-left,  .sc_theContent.sidebar-align-left {
+				order: 2;
+			}
+			#theSidebar.sidebar-align-left, .sidebar-align-left .sc_theSidebar{
+				order: 1;
+			}
+		}
+				#theFooter, #cookie-notice {
+			background-color: #222222;
+			color: #FFFFFF;
+			}
+		
+		#theFooter a, #cookie-notice a.learn-more { color: #EE4034; }
+	</style>
+	<script>
+		var ribbon_luminance = getLuminance('#FFFFFF');
+		var footer_luminance = getLuminance('#FFFFFF');
+	</script>
+		<style>
+		</style>
+			<style>
+			
+						.hero-header, .hero-header a {
+				color: #FFFFFF;
+			}
+			
+			#listenBtn, .hero-header .listen-live .socastPlayerBtn {
+				background-color: #EE4034;
+			}
+			
+			#ribbon .boxBtn:hover, #listenBtn a:hover
+			{
+				background-color: #808080;
+			}
+			#stickyHeader {
+				border-bottom: 1px solid #FFFFFF;
+			}
+			#ribbon .sub-menu {
+				border: 1px solid #FFFFFF;
+			}
+			#theContent-wrapper {
+				background-color: #FFFFFF;
+			}
+		</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="https://media.socastsrm.com/uploads/station/1659/squareIcon.png?r=56570" sizes="32x32" />
+<link rel="icon" href="https://media.socastsrm.com/uploads/station/1659/squareIcon.png?r=56570" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://media.socastsrm.com/uploads/station/1659/squareIcon.png?r=56570" />
+<meta name="msapplication-TileImage" content="https://media.socastsrm.com/uploads/station/1659/squareIcon.png?r=56570" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	<meta name="google-site-verification" content="eVbd7lmjuF7kYuCbrQthJUYVCOCOIHO5d_e9ZfBeifs" />
+<meta name="google-site-verification" content="b0Eh6g5epMs68Em38ZndIaN-0BFaHfznQUN8LWuAQ-g" />
+<meta name="google-site-verification" content="O6uXTMglNDHeCchpKrsZwOgOQYSKA1zfPO3wkl3jIz0" /><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1419846198016411" crossorigin="anonymous"></script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+ 
+<script>
+  googletag.cmd.push(function() {
+// Define size mapping [0,0] defaults to smallest screen possible. [992,200] is the "md" screen breakpoint.
+// These variables are used in the codes below, in defineSizeMapping(var)
+var leaderboard = googletag.sizeMapping().addSize([0,0], [320, 50]).addSize([992, 200], [728, 90]).build();
+
+googletag.defineSlot('/21620553008/ckdr_stwd_ldrbrd', [[320, 50], [728, 90]], 'div-gpt-ad-1654866315491-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_sprts', [[320, 50], [728, 90]], 'div-gpt-ad-1654866346441-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_on-air', [[728, 90], [320, 50]], 'div-gpt-ad-1654866342881-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_news', [[728, 90], [320, 50]], 'div-gpt-ad-1654866312183-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_gal', [[320, 50], [728, 90]], 'div-gpt-ad-1654866339364-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_evnts', [[320, 50], [728, 90]], 'div-gpt-ad-1654866336155-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds', [[320, 50], [728, 90]], 'div-gpt-ad-1654866332701-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_arndhouse', [300, 100], 'div-gpt-ad-1654869341682-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_elctrncs', [300, 100], 'div-gpt-ad-1654869337979-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_emplymnt', [300, 100], 'div-gpt-ad-1654869334702-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_grgsls', [300, 100], 'div-gpt-ad-1654869331573-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_lstfnd', [300, 100], 'div-gpt-ad-1654869328466-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_misc', [300, 100], 'div-gpt-ad-1654869346931-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_realest', [300, 100], 'div-gpt-ad-1654869325282-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_clsfds_vehcls', [300, 100], 'div-gpt-ad-1654869321911-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_spnsr_obits', [[320, 50], [728, 90]], 'div-gpt-ad-1654869318477-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_hlfpg', [300, 600], 'div-gpt-ad-1654866308644-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_top', [300, 250], 'div-gpt-ad-1654866318698-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_overflow', [300, 250], 'div-gpt-ad-1677071111134-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_rndm', [[300, 250], [300, 100]], 'div-gpt-ad-1654866329286-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_rndm', [[300, 250], [300, 100]], 'div-gpt-ad-1654866329286-1').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_rndm', [[300, 250], [300, 100]], 'div-gpt-ad-1654866329286-2').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_rndm', [[300, 250], [300, 100]], 'div-gpt-ad-1654866329286-3').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_rndm', [[300, 250], [300, 100]], 'div-gpt-ad-1654866329286-4').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_side_bgbx_rndm', [[300, 250], [300, 100]], 'div-gpt-ad-1654866329286-5').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/CKDR_Sidebar_Big-Box_TBAYTEL', [300, 250], 'div-gpt-ad-1666808557491-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_lst_ldrbrd', [[728, 90], [320, 50]], 'div-gpt-ad-1654866325748-0').defineSizeMapping(leaderboard).addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_act_bnr', [300, 100], 'div-gpt-ad-1654866304857-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_act_bgbx', [300, 250], 'div-gpt-ad-1654866321992-0').addService(googletag.pubads());
+googletag.defineSlot('/21620553008/ckdr_evnt_bnr', [300, 100], 'div-gpt-ad-1654889411766-0').addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script><style>.font-roboto { font-family: Roboto, Sans-Serif; } 
+</style><link href='https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,900,100' rel='stylesheet' type='text/css'>
+</head>
+<body class='page-template-default page page-id-427 wpb-js-composer js-comp-ver-6.1 vc_responsive headerType-main platform-desktop nav-font-xsmall font-roboto pattison-hero-1 header-not-sticky'>
+<style>
+#cookie-notice {
+z-index: 1000002!important;
+}
+#minimalMenuToggle .text {
+display: inline-block!important;
+}
+#ribbon #minimalMenuToggle a {
+padding: 8px 56px !important;
+}
+.hero-header {
+background-color: transparent!important;
+}
+img.company-logo {
+  max-width: 200px !important;
+  max-height: 150px !important;
+}
+
+.white {
+color: #fff !important;
+}
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+    min-height: 510px;
+    min-width: 360px;
+}
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.resp-iframe-riding {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 100%;
+    border: 0;
+overflow: hidden;
+}
+
+@media only screen and (min-width: 576px) {
+.tag-rss .header-image-container {
+  width: 40%; float: right; margin: 0 0 30px 30px; 
+}
+.tag-feat-full .header-image-container {
+  width: 100%; float: none: margin: 0;
+}
+}
+
+</style>
+<script>!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=!0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts', 'U6B4CyLjIXa6kDhA6_jWIw');</script>
+
+<link rel='stylesheet' id='prettyphoto-css'  href='https://d1809.cms.socastsrm.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=5.4.7' type='text/css' media='all' /><style>
+#ribbon #listnBtnContainer {
+    overflow:hidden !important;
+    display: inline-block !important;
+    vertical-align: top !important;
+    -o-transition: width .4s !important;
+    -ms-transition: width .4s !important;
+    -moz-transition: width .4s !important;
+    -webkit-transition: width .4s !important;
+    height: 60px !important;
+    width: 60px !important;
+    font-weight: bold !important;
+}
+.songs > div:not(:nth-child(-n+3)) {
+display: none;
+}
+.header-sticky .hero-header .fade {
+background-color: transparent !important;
+opacity: 1 !important;
+}
+a.socastPlayerBtn:hover img {
+opacity: 1 !important;
+}
+.header-sticky #ribbon {
+animation-name: none !important;
+animation-duration: 0 !important;
+}
+.sc-image {
+max-height: 370px !important;
+}
+h2 {
+margin-bottom: 0.2em !important;
+}
+.headline-ticker-category, .headline-ticker-headline {
+padding: 10px !important;
+}
+.text-center {
+display: block;
+}
+.vc-hoverbox-inner {
+min-height: 300px;
+}
+.img-ad {
+width: 100% !important;
+}
+.blogNewsWidget {
+margin-bottom: 0;
+}
+.bd-bizname h2 {
+font-size: 1.25rem;
+padding: 15px;
+background-color: #D60000;
+}
+.bd-subcat-heading, .scWidgetContainer > .sc-heading-widget, .wpb_singleimage_heading {
+font-weight: bold;
+font-size: 1.4rem;
+display: block;
+width: 100%;
+color: #ffffff;
+/*background-color: #333333;*/
+/*background-color: #222222;*/
+background-color: #77201A;
+padding: 10px;
+text-align: center;
+margin-top: 10px;
+}
+.bd-cat-heading, .blogNewsWidget > .sc-heading-widget, #promoHeader > h1 {
+font-weight: bold;
+font-size: 1.75rem;
+display: block;
+width: 100%;
+color: #ffffff;
+/*background-color: #A10202;*/
+/*background-color: #77201A;*/
+background-color: #222222;
+padding: 20px;
+text-align: center;
+}
+#theSidebar {
+background-color: #9E9E9E;
+color: #FFFFFF;
+}
+.sc-ad-block:before, .sc-ad-content-block:before {
+display: none;
+}
+.sc-ad-block, .sc-ad-content-block {
+background: none;
+}
+.acadp-categories.sc-sponsor-list .sc-sponsor-row {
+padding: 15px 0;
+}
+.vc_btn3.vc_btn3-color-danger.vc_btn3-style-modern:focus, .vc_btn3.vc_btn3-color-danger.vc_btn3-style-modern:hover {
+color: #f7f7f7;
+border-color: #ff4b3c;
+background-color: #FF675B !important;
+}
+.vc_btn3.vc_btn3-color-danger.vc_btn3-style-modern {
+color: #FFF;
+border-color: #FF675B;
+background-color: #D60000 !important;
+}
+.vc_btn3.vc_btn3-color-danger,  .vc_btn3.vc_btn3-color-danger.vc_btn3-style-flat {
+color: #fff;
+background-color: #D60000 !important;
+}
+.white-link > a:link, .white-link > a:visited, .enterContest > a:link, .enterContest > a:visited {
+color: #FFFFFF !important;
+}
+.widget-tabs .tabs li.active a {
+background-color: transparent;
+}
+.enterContest, .widget-tabs .tabs li.active li.enterContest a {
+background-color: #0b9a2e !important;
+font-weight: bold;
+}
+.nav-font-xsmall .main-nav-style {
+font-size: 12px;
+}
+body > center {
+display: none;
+}
+#theContent-wrapper {
+position: relative;
+padding-top: 130px;
+}
+#theContent-wrapper > center {
+height: 130px;
+position: absolute;
+top: 0px;
+left: 40%;
+-webkit-transform: translateX(-50%);
+transform: translateX(-40%);
+width: 100%;
+background-color: #222222;
+}
+
+#theContent {
+padding: 18px 20px 20px;
+}
+.moreBtn {
+padding: 20px;
+color: #ffffff !important;
+font-size: x-large;
+}
+.eventWidget a.pagination {
+    color: #ffffff !important;
+}
+
+.nowPlayingWidget.sc-img-overlay .sc-img-overlay-text {
+    background-color: rgba(0,0,0,0.6) !important;
+    width: 100% !important;
+}
+.sc-overlay-play-btn {
+bottom: 70px !important;
+right: 9px !important;
+}
+
+#theSidebar {
+display: flex;
+}
+#row_sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 61px;
+}
+#radioplayer {
+float: right;
+margin-bottom: 20px;
+}
+
+@media screen and (max-width: 728px) {
+#theContent-wrapper {
+position: relative;
+padding-top: 100px;
+}
+  #theContent-wrapper > center {
+    height: 100px;
+  }
+#theContent {
+padding: 18px 20px 20px;
+}
+#radioplayer {
+float: none;
+text-align: center;
+}
+}
+
+.sc-ad-block.slot-classifieds_primary {
+margin-top: -30px;
+margin-bottom: 5px !important;
+}
+
+.acadp-list-view .sc-ad-block {
+margin-bottom: 30px !important;
+margin-top: -20px;
+}
+
+.wpb_content_element, ul.wpb_thumbnails-fluid>li {
+    margin-bottom: 5px !important;
+}
+
+input[value="Save Draft"] {
+background-color: #bbbbbb;
+}
+.entry img {
+max-width: 65px !important;
+}
+.info h5 {
+font-size: 80%;
+}
+</style>
+
+<!--SECURE JAVASCRIPT PIXEL CODE START-->
+<script src="https://acuityplatform.com/Adserver/pxlj/9138697743296022528?" type="text/javascript" async  ></script>
+<!--SECURE JAVASCRIPT PIXEL CODE END-->
+
+<!-- Global site tag (gtag.js) - Google Analytics - MUST BE LAST HERE -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7518112-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  <!--gtag('config', 'UA-7518112-6');-->
+gtag('config', 'UA-7518112-6', {
+      "dimension1":"null"
+  });
+</script>
+
+<script>!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=!0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://contentdsp.com/events.js');saq('ts', 'U6B4CyLjIXa6kDhA6_jWIw');</script>
+
+<script>
+jQuery(document).ready(function($) {
+  $('#theContent-wrapper').prepend($('body > center'));
+});
+</script>
+
+<center>
+<!-- /21620553008/ckdr_stwd_ldrbrd -->
+<div id='div-gpt-ad-1654866315491-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866315491-0'); });
+  </script>
+</div>
+</center>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RJLRX0YGKT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RJLRX0YGKT');
+</script><a href='#theContent' class='skipToLink'>Skip to Content</a>
+<div id="iframe-replaceholder">
+	<header id='stickyHeader' class='not-sticky'>
+	<div id='ribbon' class='main-nav-style'>
+		<div class='ribbon-content site_width'>
+			<div id='minimalMenuToggle'>
+				<a href='#' class='boxBtn ribbonBtn'>
+					<span class='icon'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/pattison/pattison-hero-1/images/NavIcon-Menu-White.png' alt='' class='svgFallback' /></span>
+					<span class='text'>Menu</span>
+				</a>
+			</div>
+			<div class='ribbon_logo'>
+				<a href="https://www.ckdr.net" class="ribbonBtn"><img src="https://media.socastsrm.com/uploads/station/1659/site_header_logo-5fad97f74ec42.png" alt="www.ckdr.net" /></a>			</div>
+						<div id='listenBtn'>
+				<a href='#' class='socastPlayerBtn ribbonBtn'>
+					<span class='text'>Listen Live</span>
+					<span class='icon'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/pattison/pattison-hero-1/images/NavIcon-ListenLive-White.png' alt='' class='svgFallback' /></span>
+				</a>
+			</div>
+						<div class='ribbon-right'>
+				<a href='#' id='nav-more' class='ribbonBtn' style='display:none;'>More 
+					<span class='arrow-down'>&#9660;</span>
+					<span class='arrow-up'>&#9650;</span>
+				</a>
+									<div class='member-area'>
+												<a href='/login' class='openLogin boxBtn ribbonBtn'>
+							<span class='icon'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/pattison/pattison-hero-1/images/NavIcon-SignIn-White.png' alt='' class='svgFallback' /></span>
+							<span class='text'>Sign In</span>
+						</a>
+											</div>
+								<a href='/?s=' class='searchBtn boxBtn ribbonBtn'>
+					<span class='icon'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/common_images/search-White.png' alt='Search' class='svgFallback' /></span>
+				</a>
+			</div>
+			<div class='nav-full'>
+				<ul class='nav primary'><li class=''><a id='homeBtn' class='topNavLink' href='/'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/pattison/pattison-hero-1/images/NavIcon-Home-White.png' alt='Home' class='svgFallback' /></a></li><li class='active'><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/news'>News >></a><ul class='sub-menu'><li class='active'><a class='subNavLink'  href='https://www.ckdr.net/sports'>Sports</a></li><li class=''><a class='subNavLink'  href='https://www.ckdr.net/cancellations'>Cancellations</a></li></ul></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/weather'>Weather>></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/weather/#road-report'>Road Report</a></li></ul></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/obituaries'>Obituaries >></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/memorial-notices'>Memorial Notices</a></li></ul></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/events'>Events</a></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/advertising'>Advertising</a></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/classifieds-listing-categories'>Classifieds >></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/classifieds-listing-form'>Place An Ad</a></li><li class=''><a class='subNavLink'  href='https://www.ckdr.net/classifieds-manage-listings'>My Ads</a></li></ul></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/business-directory'>Directory</a></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/on-air'>On Air >></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/mccarthy-in-the-morning'>McCarthy in the Morning</a></li><li class=''><a class='subNavLink'  href='https://www.ckdr.net/sunset-country-photos'>Sunset Country Photo of the Day</a></li></ul></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/contact'>Contact >></a></li></ul>			</div>
+		</div>
+	</div>
+</header>
+<div id='stickyHeaderPlaceholder'></div>
+<div id='minimal-menu' class='main-nav-style'><ul class='nav primary'><li><a href='/' class='topNavLink'>Home</a></li><li class='active'><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/news'>News >></a><ul class='sub-menu'><li class='active'><a class='subNavLink'  href='https://www.ckdr.net/sports'>Sports</a></li><li class=''><a class='subNavLink'  href='https://www.ckdr.net/cancellations'>Cancellations</a></li></ul></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/weather'>Weather>></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/weather/#road-report'>Road Report</a></li></ul></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/obituaries'>Obituaries >></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/memorial-notices'>Memorial Notices</a></li></ul></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/events'>Events</a></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/advertising'>Advertising</a></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/classifieds-listing-categories'>Classifieds >></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/classifieds-listing-form'>Place An Ad</a></li><li class=''><a class='subNavLink'  href='https://www.ckdr.net/classifieds-manage-listings'>My Ads</a></li></ul></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/business-directory'>Directory</a></li><li class=''><a href='#' class='sub-menu-toggle'><span class='down-arrow'>&#9660;</span><span class='up-arrow'>&#9650;</span><span class='sr-text'>sub menu toggle</span></a><a class='topNavLink hasSubNav'  href='https://www.ckdr.net/on-air'>On Air >></a><ul class='sub-menu'><li class=''><a class='subNavLink'  href='https://www.ckdr.net/mccarthy-in-the-morning'>McCarthy in the Morning</a></li><li class=''><a class='subNavLink'  href='https://www.ckdr.net/sunset-country-photos'>Sunset Country Photo of the Day</a></li></ul></li><li class=''><a class='topNavLink'  href='https://www.ckdr.net/contact'>Contact >></a></li><li class=''><a href='/login' class='openLogin topNavLink'>Sign In</a></li><li class=''><a href='/?s=' class='searchBtn topNavLink'>Search</a></li></ul></div>	<div class='site_width'>
+		<div class='secondary_nav secondary_bgd_color'>
+			<ul class='nav primary secondary'><li class='active'><a class='subNavLink'  href='https://www.ckdr.net/sports'>Sports</a></li><li class=''><a class='subNavLink'  href='https://www.ckdr.net/cancellations'>Cancellations</a></li></ul>		</div>
+	</div>
+			<div id='minisite' class='site_width'>
+		<div class='minisite_header'><img src='https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1956/files/2019/07/minisite-header_sports_ckdr.png' alt='Sports' class='minisite_header_img' /></div>	</div>
+		<div id='theContent-wrapper' class='site_width sc_content_wrapper'>
+	<div id='theContent' class='sc-content-area hasSidebar sidebar-align-right'>
+		<div class='aboveContentFullWidth'></div>
+<article id="post-427" class="post-427 page type-page status-publish hentry">
+	
+	<div class="entry-content">
+		<div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vrtzng" >
+		<div class="wpb_wrapper">
+			<center>
+<!-- /21620553008/ckdr_home_sports_leaderboard -->
+<div id='div-gpt-ad-1561670493690-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1561670493690-0'); });
+</script>
+</div>
+</center>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="blogNewsWidget scWidgetContainer sc-list" data-uid="scbnl-64b0a2c4484cb"  data-layout="-5" data-stripped="yes" data-summary="200" data-imgsize="medium_large" data-author="yes" data-view="no" data-date="yes" data-adpos="5" data-colwidth="0" data-excluded="" data-cache-namespace="210">
+	<div class='loader sc-center-box hidden'><img src='https://media.socastsrm.com/application/theme/images/loaders/indicator-big.gif' alt='' /></div>
+	<h2 class='sc-heading-widget'>Top Story</h2>
+	
+	<div class="posts items-wrapper"><a href="https://www.ckdr.net/2023/06/27/lotw-speedway-season-opens-on-sunday/"  class="sc-list-item sc-divider item">
+	<div class="sc-list-img"><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/06/speedone-768x512.jpg" alt="" /></div>
+	<div class="sc-list-info">
+		<div class="sc-list-title primary_color sc-list-display-link">LOTW Speedway season opens on Sunday</div>
+		<div class='sc-list-content'>
+			<div class="text">Racing returns to Lake of the Woods Speedway in 2023 with the Season Opener this Sunday, July 2 with the Q104 WISSOTA Midwest Modifieds, WISSOTA Pure Stocks, 4-Cylinders, and the Riverview Industries ...</div>
+			<div class="text-sm sc-item-detail">
+				<span class='sc-author'>Ryan Forbes</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>Jun 27, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</a></div>
+	<div style='clear:both;'></div>
+	
+	
+	<div style='clear:both;'></div>
+</div><!-- Generated by: SoCast Blog List ({"last_updated":1689297604,"cache_namespace":210,"source":"elasticsearch","count":10000,"query_time":20,"query_time_es":3,"age":0}) --><div class="vc_empty_space"   style="height: 20px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="blogNewsWidget scWidgetContainer sc-card-list sc-compact" data-uid="scbnl-64b0a2c44b8fe"  data-layout="-8" data-stripped="yes" data-summary="150" data-imgsize="Default 16:9" data-author="yes" data-view="no" data-date="yes" data-adpos="5" data-colwidth="0" data-excluded="" data-cache-namespace="210">
+	<div class='loader sc-center-box hidden'><img src='https://media.socastsrm.com/application/theme/images/loaders/indicator-big.gif' alt='' /></div>
+	
+	
+	<div class="posts items-wrapper"><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/06/19/thunder-bay-team-wins-back-to-back-walleye-masters/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/06/walleyemastersfacebook-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/06/19/thunder-bay-team-wins-back-to-back-walleye-masters/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Thunder Bay team wins back-to-back Walleye Masters</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">The team of Scott Abraham and Frank Lombardo have walked away with the top prize of TbayTel's Dryden Walleye Masters for the second year in a row. The...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Ryan Forbes</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>Jun 19, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/06/16/100-teams-register-for-walleye-masters/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/06/walleyemasterstwo-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/06/16/100-teams-register-for-walleye-masters/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">100 teams register for Walleye Masters</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">About 200 anglers will be out on Wabigoon Lake this weekend for the return of TbayTel's Dryden Walleye Masters. 100 teams are registered for the annua...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Ryan Forbes</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>Jun 16, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/06/02/dryden-gm-back-for-another-year-of-sponsoring-the-ice-dogs/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/06/beyak-ice-dogs-800x450.png" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/06/02/dryden-gm-back-for-another-year-of-sponsoring-the-ice-dogs/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Dryden GM back for another year of Ice Dogs hockey</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">Dryden GM will continue as the main sponsor of the Ice Dogs. Nick Beyak president of the Beyak Automotive Group says they will again partner with the ...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>Jun 02, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/06/01/bronco-boys-and-muskie-girls-win-norwossa-soccer-titles/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/soccer-tourny-1-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/06/01/bronco-boys-and-muskie-girls-win-norwossa-soccer-titles/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Bronco boys and Muskie girls win NorWOSSA soccer titles</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">Both Beaver Brae and Fort Frances are sending teams to the All-Ontario Soccer championships next week. The Bronco boys defeated the Muskies in the Nor...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>Jun 01, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/05/18/33637/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/saints-owls-boys-soccer-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/05/18/33637/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Saints shut down Rams and Owls in NorWOSSA soccer</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">The St. Thomas Aquinas girls soccer team didn't allow a goal in the three games they played over the past two days at the Tom Nabb Soccer Complex. The...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>May 18, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class='sc-ad-block slot-bloglist bnl-preload' data-pos='5'><center>
+<!-- /21620553008/ckdr_lst_ldrbrd -->
+<div id='div-gpt-ad-1654866325748-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866325748-0'); });
+  </script>
+</div>
+</center></div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/05/17/results-from-week-2-of-the-norwossa-soccer-season/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/bronco-girls-soccer-pci-1-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/05/17/results-from-week-2-of-the-norwossa-soccer-season/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Results from week 2 of the NorWOSSA soccer season</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">The Beaver Brae boys and the Dryden Eagle girls won both their games on Tuesday during the second week of NorWOSSA soccer action. The Broncs shut out ...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>May 17, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/05/15/33106/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/soccer-tourny-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/05/15/33106/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">NorWOSSA teams settle for second in weekend tournament</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">Winnipeg teams earned top honors from a weekend soccer tournament over the weekend in Kenora. St. John Ravenscourt claimed first place in the boys div...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>May 15, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://d1809.cms.socastsrm.com/2023/05/11/32813/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/centennial-cup-800x450.png" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://d1809.cms.socastsrm.com/2023/05/11/32813/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Centennial Cup begins today in Portage la Prairie</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">The Centennial Cup begins today in Portage La Prairie, Mantioba. The first game will feature the Kam River Fighting Walleye, who are making their debu...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>May 11, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/05/09/32542/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/ice-dogs-training-camp-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/05/09/32542/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Ice Dogs Announce training camp dates</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">The SIJHL season is barely over, but the Dryden GM Ice Dogs are already talking about next season. The schedule for the training camp has been release...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>May 09, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/05/02/north-stars-force-game-7-in-sijhl-finals/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/tbayfeistgoal-800x450.jpg" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/05/02/north-stars-force-game-7-in-sijhl-finals/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">North Stars force Game 7 in SIJHL Finals</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">There's going to be a Game 7 in the SIJHL finals for the Bill Salonen Cup. The Thunder Bay North Stars took down the Kam River Fighting Walleye 6-2 la...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Ryan Forbes</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>May 02, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div><div class="sc-card-item sc-divider item">
+	<div class="sc-card-img sc-divider">
+		<a href="https://www.ckdr.net/2023/05/01/31588/" ><img class="sc-image" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3041/files/2023/05/rylee-800x450.png" alt="" /></a>
+	</div>
+	<div class="sc-card-info">
+		<a href="https://www.ckdr.net/2023/05/01/31588/"  class="sc-card-title primary_color sc-card-display-link sc-single-line">Dryden Judokas win several medals at Grappler</a>
+		<div class='sc-card-content'>
+			<div class="text sc-single-line">Dryden School of Judo collected several medals at it's Grappler tournament in Fort Frances this past weekend. The club held a North West Regional Shia...</div>
+			<div class="text-sm sc-item-detail sc-single-line">
+				<span class='sc-author'>Tim Davidson</span>
+				<span class='sc-time'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg>May 01, 2023</span>
+				<span class='sc-view'></span>
+				<span class="sc-image-attribution"></span>
+			</div>
+		</div>
+	</div>
+</div></div>
+	<div style='clear:both;'></div>
+	
+	<a href='/more-blog/?sort=publish_date&categories=1956-128%2C1956-6771%2C1956-6782%2C1956-6790&offset=11&items_per_page=11&items_per_more_page=12&el_class=&length_of_article_summary=150&display_author_name=yes&display_view=no&display_date=yes&layout=-8&column_width=0&promo_position=default&target=&back_url=%2Fsports%2F&back_page_name=Sports' class='btn btn-secondary moreBtn'>See More</a>
+	<div style='clear:both;'></div>
+</div><!-- Generated by: SoCast Blog List ({"last_updated":1689297604,"cache_namespace":210,"source":"elasticsearch","count":10000,"query_time":11,"query_time_es":3,"age":0}) --></div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h4 class='sc-heading-widget  bd-cat-heading'>Send Us Your Sports Scores and Schedules!</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>If you have local sports results to share, pass them along!  Call or text us at<br />
+(807) 223-5215 or email <a href="mailto:ckdrnews@radioabl.ca">ckdrnews@radioabl.ca</a> (with pictures) or Tweet @ckdrnews.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div id="activityStreamContainer_64b0a2c44c113" class="activityStreamContainer scWidgetContainer">
+	
+	<div class='emptyMessage'>No feed items available at this time.</div>
+	<div id="activityStream_64b0a2c44c113" class="activityStream"></div>
+	<a class='btn btn-silver moreBtn' href='javascript:feed_64b0a2c44c113.more("more_btn");' style='display:none;'>More</a>
+	<div class='modals'>
+		<div id="activityStreamConversation_64b0a2c44c113" class="activityStream activityStreamConversation">
+			<div id="activityStreamConversation_64b0a2c44c113_notify" class="notify" style='display:none;'>
+				<a class="close" href="javascript:;">x</a>
+				<h3></h3>
+				<p></p>
+			</div>
+			<div class='content'></div>
+		</div>
+		<div id="activityStreamNotify_64b0a2c44c113" class="activityStream activityStreamNotify">
+			<div id="activityStreamNotify_64b0a2c44c113_notify" class="notify">
+				<h3></h3>
+				<p></p>
+			</div>
+		</div>
+	</div>
+	<div class='feedLinks'>
+		<a href='javascript:feed_64b0a2c44c113.toggleRefresh();' class='refreshToggle'>Pause Auto-Update</a> | <a href='#' class='backToTop'>Back to Top</a>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var feed_64b0a2c44c113 = null;
+	var feedLightbox_64b0a2c44c113 = null;
+	var SOCKET_URI = SOCKET_URI || 'wss://e2iotl3zc1.execute-api.us-east-1.amazonaws.com/prod';
+
+	jQuery(function ($) {
+		$(document).on('ready socast:reinit',function(e) {
+			feed_64b0a2c44c113 = new ActivityStream();
+			feed_64b0a2c44c113.key = '64b0a2c44c113';
+			feed_64b0a2c44c113.connection = new WebSocket(SOCKET_URI);
+			feed_64b0a2c44c113.items = 8;
+			feed_64b0a2c44c113.paginate = false;
+			feed_64b0a2c44c113.numColumns = 2;
+			feed_64b0a2c44c113.feedID = 6692;
+			feed_64b0a2c44c113.accountID = 1809;
+			feedLightbox_64b0a2c44c113 = new Lightbox('feedLightbox_64b0a2c44c113', [], true, false, false);
+			feed_64b0a2c44c113.lightbox = feedLightbox_64b0a2c44c113;
+			feedLightbox_64b0a2c44c113_comment = new Lightbox('feedLightbox_64b0a2c44c113_comment', [], true, false, false);
+			feed_64b0a2c44c113.commentLightbox = feedLightbox_64b0a2c44c113_comment;
+			feed_64b0a2c44c113.ucStaffLogo = null;
+			
+			feed_64b0a2c44c113.init();
+
+			$(document).on('click', "#lightbox_feedLightbox_64b0a2c44c113 .lightbox_close", function(e){
+				feed_64b0a2c44c113.setRefresh();
+			});
+
+			var height = $(window).height() - 100;
+
+			$('#activityStreamConversation_64b0a2c44c113').dialog({
+				title: 'View Conversation',
+				autoOpen: false,
+				modal: true,
+				resizable:false,
+				width:350,
+				close: function(){
+					$('#activityStreamConversation_64b0a2c44c113 .content').html('');
+				}
+			});
+			$('#activityStreamConversation_64b0a2c44c113').css('maxHeight', height+'px');
+
+
+			$('#activityStreamNotify_64b0a2c44c113').dialog({
+				title: 'Submit Comment',
+				autoOpen: false,
+				modal: true,
+				resizable:false,
+				width:350
+			});
+		});
+	});
+</script>
+<style>
+	.activityStream .feedItem .feedHeader {
+		background-color: #666666;
+	}
+	.activityStream .feedHeader.uc_user {
+		background-color: #666666;
+	}
+	.activityStream .feedHeader.uc_staff {
+		background-color: #666666;
+	}
+</style></div></div></div></div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+			</footer><!-- #entry-meta -->
+</article><!-- #post-427 -->
+<div id="comments">
+	
+			
+			
+</div><!-- #comments -->
+<script>
+$(document).ready(function(){
+	$("#commentform").submit(function(){
+		if ($("#comment").val().match(/\w+/)) return true;
+		if ($("#comment-empty-prompt").length <= 0){
+			$("#comment").before('<div id="comment-empty-prompt" style="color:red;">Oops, please type a comment.</div>');
+		}
+		return false;
+	});
+	
+	$('#comments .commentlist .comment-content a').attr('target','_blank');
+});
+</script>		</div><!-- #thecontent -->
+		<div id='theSidebar' class='sidebar-align-right'>
+<div class="sidebar-content"><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class='scWidgetContainer currentProgramWidget scGenericList sc-list sc-list-sm' >
+	
+	<div class='items-wrapper'><div class="sc-list-item item">
+	<a href='#' class='socastPlayerBtn sc-list-img' data-streamid="">
+		<div class='img-container'>
+			<img class='program-img sc-image logo' src='https://media.socastsrm.com/uploads/station/1659/logo.png?r=56562' alt='' />
+			<div class='sc-overlay-play-btn btn btn-primary'><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M8,5.14V19.14L19,12.14L8,5.14Z"></path></svg></div>
+		</div>
+	</a>
+	<div class="sc-list-content sc-list-info program-info">
+		<div class='text-help np-text'><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24" class="icon icon-left" ><path fill="currentColor" d="M12,10A2,2 0 0,1 14,12C14,12.5 13.82,12.94 13.53,13.29L16.7,22H14.57L12,14.93L9.43,22H7.3L10.47,13.29C10.18,12.94 10,12.5 10,12A2,2 0 0,1 12,10M12,8A4,4 0 0,0 8,12C8,12.5 8.1,13 8.28,13.46L7.4,15.86C6.53,14.81 6,13.47 6,12A6,6 0 0,1 12,6A6,6 0 0,1 18,12C18,13.47 17.47,14.81 16.6,15.86L15.72,13.46C15.9,13 16,12.5 16,12A4,4 0 0,0 12,8M12,4A8,8 0 0,0 4,12C4,14.36 5,16.5 6.64,17.94L5.92,19.94C3.54,18.11 2,15.23 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12C22,15.23 20.46,18.11 18.08,19.94L17.36,17.94C19,16.5 20,14.36 20,12A8,8 0 0,0 12,4Z" /></svg>On Air Now</div>
+		<div class="sc-list-title program-title">Classic Hits, Today&#039;s Favourites!</div>
+		<div class='current-timeslot sc-item-detail'><svg class="icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24"><path fill="currentColor" d="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" /></svg><span class='timetext'>8:00 PM - 12:00 AM</span></div>
+		<div class='program-description text'>All the best hit music from the 90's to today!</div>
+	</div>
+</div></div>
+</div>
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://listen.streamon.fm/ckdr" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="72" src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1956/files/2019/03/button_listen-live_ckdr.png" class="vc_single_image-img attachment-full" alt="" /></a>
+		</figure>
+	</div>
+<div class='scWidgetContainer scSearchWidget'><form method='get' action='/' ><div class='search-form-modern'>
+			<div class='bar'>
+				<button class='search-btn-svg primary_bgd_color'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/common_images/search-White.png' alt='search' /></button>
+				<input type='text' name='s' class='primary_border_color' value='' placeholder='Search CKDR.net ...' />
+			</div></div>
+	<script>
+	$(document).ready(function() {
+		var base_url = '/wordpress/wp-content/themes/';
+		loadSvg('.search-form-modern button', base_url+'common_images/search', '-White', 'Search');
+	});
+	</script></form></div>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<!-- To remove program banner on On-air area-->
+<style>
+a.socastPlayerBtn.sc-list-img {
+    display: none;
+}
+.program-description.text {
+    display: none;
+}
+</style>
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 20px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<center>
+<!-- /21620553008/side_bgbx_top -->
+<div id='div-gpt-ad-1654866318698-0' style='width: 300px; height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866318698-0'); });
+  </script>
+</div>
+</center>
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<center>
+<!-- /21620553008/ckdr_side_bgbx_overflow -->
+<div id='div-gpt-ad-1677071111134-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1677071111134-0'); });
+  </script>
+</div>
+</center>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html hidden" >
+		<div class="wpb_wrapper">
+			<center>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1419846198016411" data-ad-slot="1696055978"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</center>
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 20px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="lastPlayedWidget scWidgetContainer hideMore skip-0" data-listurl="https://socast-public.s3.amazonaws.com/player/lp_1809_1704.js" data-npurl="https://socast-public.s3.amazonaws.com/player/np_1809_1704.js" data-offset="0">
+	<h2 class="sc-heading-widget">Last Played</h2>
+	<div class="songs"></div>
+	<div style='clear:both;'></div>
+	<a class='btn btn-silver moreBtn' href='javascript:;' data-next="" >More</a>
+</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<center>
+<!-- /21620553008/side_bgbx_rndm -->
+<div id='div-gpt-ad-1654866329286-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866329286-0'); });
+  </script>
+</div>
+<br>
+</center>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<center>
+<!-- /21620553008/side_bgbx_rndm -->
+<div id='div-gpt-ad-1654866329286-1'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866329286-1'); });
+  </script>
+</div>
+<br>
+<div id='div-gpt-ad-1654866329286-2'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866329286-2'); });
+  </script>
+</div>
+<br>
+<div id='div-gpt-ad-1654866329286-3'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866329286-3'); });
+  </script>
+</div>
+<br>
+<div id='div-gpt-ad-1654866329286-4'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866329286-4'); });
+  </script>
+</div>
+<br>
+<div id='div-gpt-ad-1654866329286-5'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866329286-5'); });
+  </script>
+</div>
+<br>
+</center>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html hidden" >
+		<div class="wpb_wrapper">
+			<center>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1419846198016411" data-ad-slot="1696055978"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<br>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1419846198016411" data-ad-slot="1696055978"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<br>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1419846198016411" data-ad-slot="1696055978"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</center>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<center>
+<!-- /21620553008/CKDR_Sidebar_Big-Box_TBAYTEL -->
+<div id='div-gpt-ad-1666808557491-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1666808557491-0'); });
+  </script>
+</div>
+</center>
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 20px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div id="row_sticky" class="vc_row wpb_row vc_row-fluid sc-gridless"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<center>
+<!-- /21620553008/ckdr_side_hlfpg -->
+<div id='div-gpt-ad-1654866308644-0' style='min-width: 300px; min-height: 600px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654866308644-0'); });
+  </script>
+</div>
+</center>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html hidden" >
+		<div class="wpb_wrapper">
+			<center>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-1419846198016411" data-ad-slot="6182095898"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</center>
+		</div>
+	</div>
+</div></div></div></div>
+</div></div>
+	</div><!-- #theContent-wrapper -->
+	<div style='clear:both;'></div>
+		<footer id='theFooter'>
+		<div class='site_width'>
+			<div class='social-links'><a href='https://twitter.com/ckdrnews' target='_blank' class='socialIconLink twitter'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/common_images/social/twitter.png' alt='twitter' /></a><a href='https://www.facebook.com/CKDR.Dryden' target='_blank' class='socialIconLink facebook'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/common_images/social/facebook.png' alt='facebook' /></a><a href='https://itunes.apple.com/ca/app/radioplayer-canada/id1204742241?ls=1&mt=8' target='_blank' class='socialIconLink ios'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/common_images/social/ios.png' alt='ios' /></a><a href='https://play.google.com/store/apps/details?id=ca.radioplayer.android' target='_blank' class='socialIconLink android'><img src='https://media.socastsrm.com/wordpress/wp-content/themes/common_images/social/android.png' alt='android' /></a></div>			<div class='footer-links'>
+				<ul class='nav footer'><li class=''><a class='topNavLink'  href='/privacy'>Privacy Policy</a></li><li class=''><a class='topNavLink'  href='/terms'>Terms Of Service</a></li></ul>			</div>
+			<div class='footer-logos'>
+				<a href='https://acadiabroadcasting.ca/' target='_blank' class=''><img src='https://media.socastsrm.com/uploads/company/315/612645c398f3e.png' class='company-logo' alt='Acadia Broadcasting - We&#039;re all about you.' /></a>				
+				<div>Copyright &copy; 2023. All rights reserved.</div>
+				
+	<div id='socastTagline'>
+		<p>This site is protected by reCAPTCHA and the Google <a href='https://policies.google.com/privacy'>Privacy Policy</a> and <a href='https://policies.google.com/terms'>Terms of Service</a> apply.</p>
+		<a id='poweredBySocastLink' href='https://www.socastdigital.com' target='_blank'>
+			<img src='https://media.socastsrm.com/wordpress/wp-content/themes/common_images/PoweredBySoCastTagline-White.png' alt='Powered by SoCast' />
+		</a>
+		<script>
+		$(document).ready(function() {
+			var image_type = '-White';
+			if (typeof footer_luminance != 'undefined' && footer_luminance < 127.5) image_type = '-Black';
+			loadSvg('#poweredBySocastLink', '/wordpress/wp-content/themes/common_images/PoweredBySoCastTagline', image_type, 'Powered by SoCast');
+		});
+		</script>
+	</div>			</div>
+		</div>
+	</footer>
+	<script type="text/javascript">
+function openLogin() {
+	window.location = "/login";
+}
+</script>	<script>
+	$(document).ready(function() {
+		var base_url = '/wordpress/wp-content/themes/';
+		var theme_images_dir = 'pattison/pattison-hero-1/images/';
+			loadSvg('#theFooter .socialIconLink.twitter', base_url+'common_images/social/twitter', '', 'twitter');
+loadSvg('#theFooter .socialIconLink.facebook', base_url+'common_images/social/facebook', '', 'facebook');
+loadSvg('#theFooter .socialIconLink.ios', base_url+'common_images/social/ios', '', 'ios');
+loadSvg('#theFooter .socialIconLink.android', base_url+'common_images/social/android', '', 'android');
+			
+		var image_type = '-White';
+		if (ribbon_luminance < 127.5) image_type = '-Black';
+		loadSvg('#minimalMenuToggle .icon', base_url+theme_images_dir+'NavIcon-Menu', image_type, '');
+		loadSvg('#listenBtn .icon', base_url+theme_images_dir+'NavIcon-ListenLive', image_type, '');
+		loadSvg('#ribbon .ribbon-right .openLogin .icon', base_url+theme_images_dir+'NavIcon-SignIn', image_type, '');
+		loadSvg('#ribbon .ribbon-right .searchBtn .icon', base_url+'common_images/search', image_type, 'Search');
+		loadSvg('#homeBtn', base_url+theme_images_dir+'NavIcon-Home', image_type, 'Home');
+		loadSvg('.hero-header .hero-scroll-action .icon', base_url+theme_images_dir+'ScrollDownArrow', image_type, 'Scroll Down');
+	});
+	</script>
+</div><!-- iframe-replaceholder -->
+<script data-cfasync="false" type="text/javascript">
+var addthis_config = {"ui_atversion":300,"data_track_clickback":true,"services_exclude":"favorites,mailto","services_expanded":"facebook,flipboard,google_plusone_share,linkedin,reddit,pinterest_share,tumblr,twitter,email,print","ignore_server_config":true};
+
+</script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.0.6";
+                    var wp_product_version = "wpp-5.0.6";
+                    var wp_blog_version = "5.4.2";
+                    var addthis_plugin_info = {"cms_name":"WordPress","cms_version":"5.4.2","plugin_name":"AddThis Sharing Buttons","plugin_version":"5.0.6","plugin_mode":"WordPress"};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"ui_atversion":300,"data_track_clickback":true,"services_exclude":"favorites,mailto","services_expanded":"facebook,flipboard,google_plusone_share,linkedin,reddit,pinterest_share,tumblr,twitter,email,print","ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        
+                    }
+                </script>
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-558c652a79e703e9 "
+                    async="async"
+                >
+                </script><script type="text/html" id="wpb-modifications"></script><link rel='stylesheet' id='addthis_output-css'  href='https://www.ckdr.net/wp-content/plugins/addthis/css/output.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='socastcms_activityStream_style-css'  href='https://cdn-css.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/css/widgets/activityStream.css?v=2014-07-22&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='socastcms_multiColumnLayout_style-css'  href='https://cdn-css.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/css/multiColumnLayout.css?v=2013-10-01&#038;ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ckdr.net/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.ckdr.net/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.ckdr.net/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/widgets/blogNews.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/widgets/featureRotator.js?v=2014-07-29&#038;ver=5.4.2'></script>
+<script type='text/javascript' src='https://connect.soundcloud.com/sdk.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/widgets/activityStreamGlobal.js?v=2014-09-17&#038;ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/widgets/activityStreamObject.js?v=2020-08-20&#038;ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/audio-recorder/polyfill.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api?ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/js/jquery/js/jquery.form.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://google.com/recaptcha/api.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/multiColumnLayout.js?v=2013-10-01&#038;ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn-js.socastsrm.com/cdn_v16.20.18/wordpress/wp-content/plugins/socast-widgets/js/widgets/lastPlayed.js?ver=5.4.2'></script>
+<!--wp_footer-->
+
+<style>
+    #cookie-notice {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 30px;
+    margin: 0;
+    border-top: 1px solid currentColor;
+    z-index: 10000;
+background-color: #000000;color: #FFFFFF;border-color: #FFFFFF;}
+    #cookie-notice .copy {
+        /*float: left;*/
+        padding: 7px 0;
+    }
+    #cookie-notice .buttons {
+        float: right;
+    }
+    #cookie-notice .buttons a {
+        display: inline-block;
+        margin-left: 10px;
+    }
+    #cookie-notice a.learn-more {
+color: #FFFFFF;    }
+</style>
+
+<div id="cookie-notice">
+    <div class="copy">We use cookies</div>
+    <div class="buttons">
+        <a href="/privacy" target="_blank" class="learn-more">Privacy Policy</a>
+        <a href="#" class="accept btn btn-black">OK</a>
+    </div>
+</div>
+<script>
+$(document).ready(function() {
+    var callback = function() {
+        if (!$("body").hasClass('platform-app')) {
+            var cookieName = "socastCookieNotice";
+            var cookieValue = readCookie(cookieName);
+            if (!cookieValue) {
+                $("#mobile-banner-area").hide();
+                $("#cookie-notice").show();
+            }
+            $("#cookie-notice .accept").click(function() {
+                $("#cookie-notice").fadeOut("fast");
+                createCookie(cookieName, "true", 365);
+                $("#mobile-banner-area").show();
+            });
+        }
+    }
+    setTimeout(callback, 1500);
+});
+</script>
+<script>
+	grecaptcha.ready(function(){
+		grecaptcha.execute("6LchdXMgAAAAAP4dU47UWMAhU0Tc8Uf0ldZrstqZ", {action: 'page_load'})
+		.then(_ => {
+			
+		});
+	});
+</script><div id="radioplayer"><a href="http://radioplayer.ca/#download" target="_blank"><img src="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1956/files/2022/03/radioplayer300x100.png"></a></div>
+
+<script>
+(function($) {
+$('#radioplayer').insertBefore('#theFooter .social-links');
+})( jQuery );
+</script>
+
+<script>
+(function($){
+ 
+    $.fn.shuffle = function() {
+ 
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+           });
+ 
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+ 
+        return $(shuffled);
+ 
+    };
+ 
+})(jQuery);
+
+</script>
+
+<script>
+jQuery(document).ready(function($) {
+    $("div.copy").append(" and other technologies to ensure that our website works properly, improve your use of our site and help you see ads on our site and other sites that are matched to your interests.  To learn more about cookies and managing cookies see our <a href='/privacy'>Privacy Policy</a>. Questions? Contact <a href='mailto:privacy@ocil.ca'>privacy@ocil.ca</a>.");
+  });
+</script><script type='text/javascript' src='https://d1809.cms.socastsrm.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=5.4.7'></script>
+<script type="text/javascript"  src="https://apiv2.popupsmart.com/api/Bundle/360835" async></script>
+<script src="https://cdn.popupsmart.com/bundle.js" data-id="75190" async defer></script></body>
+</html>

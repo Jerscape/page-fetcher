@@ -20,6 +20,18 @@ const {body} = request(url, (error, response, body) => {
       console.error(err);
     }
 
+    fs.stat(localFilePath, (err,stats) => {
+      if(err){
+        console.log("ERROR: " + err)
+
+      } else {
+        let size = stats.size //returning null
+        let name = stats.name
+        console.log(`Downloaded and saved ${size} bytes to ${localFilePath}`) //returning cannot read size of null
+      }
+
+
+    })
     
   });
 
