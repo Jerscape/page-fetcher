@@ -38,7 +38,7 @@ const {body} = request(url, (error, response, body) => {
 });
 
 
-//console.log("TESTING BODY" + body)
+//console.log("TESTING BODY" + body) 
 
 
 
