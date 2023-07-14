@@ -8,14 +8,28 @@ const arguments = process.argv;
 console.log(arguments)
 console.log("element 2: " + arguments[2])
 const url = arguments[2];
-console.log(url)
+const localFilePath = arguments[3];
+//console.log(url)
 
 //I guess I have to fetch it first based on the argumetns passed via the command line 
 
 //I picked my companies url(?)
-request(url, (error, response, body) => {
-  console.log(body) //test to see if this works
+const {body} = request(url, (error, response, body) => {
+  fs.writeFile(localFilePath, body, err => {
+    if (err) {
+      console.error(err);
+    }
+
+    
+  });
 
 });
+
+
+//console.log("TESTING BODY" + body)
+
+
+
+//write to file?
 
 //do I have to write the downloaded resource to a file in order to save it I guess?
